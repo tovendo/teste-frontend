@@ -39,3 +39,9 @@ Faça download clicando [aqui](https://github.com/SENAI-NTM/teste-backend/blob/m
 4. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
 5. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
+## Configuração
+1. Edite a variável url na linha 75 para apontar a API/JSON.
+```
+var url = 'http://localhost/teste-backend/public/v1/backend';
+```
+2. Para acessar o frontend utilize o link "http://localhost/frontend.html".
